@@ -5,6 +5,7 @@ requires = [
     "robotpy-wpimath>=2021.2.2.0,<2022.0.0",
     "robotpy-hal>=2021.2.2.0,<2022.0.0",
     "pyntcore>=2021.2.2.0,<2022.0.0",
+    "wheel",
 ]
 
 [tool.robotpy-build]
